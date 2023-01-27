@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+
+    background-image:url(./istockphoto-1332097112-170667a.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div {
+    width: 350px;
+    height: 400px;
+    background-color: rgba(0, 0, 0, 0.448);
+    margin: 100px 0px 0px 500px;
+    padding: 45px;
+    line-height: 40px;
+    box-shadow: 0px 0px 10px white;
+}
+
+label {
+    font-size: 30px;
+    text-transform: capitalize;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+
+}
+
+input, button {
+    width: 250px;
+    height: 30px;
+    font-size: 15px;
+    font-weight: 400;
+}
+input{
+    padding: 10px;
+}
+button {
+    color: black;
+
+}
